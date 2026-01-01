@@ -424,4 +424,3 @@ For questions, licensing, or support:
 
 
 **© 2026. All Rights Reserved.**
-** Authors : PANCHADIP B & SOMYAJEET A **
