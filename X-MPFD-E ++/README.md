@@ -1,6 +1,6 @@
 # X-MPFD-E++: Explainable Multimodal Phishing & Fraud Detection and Reasoning Engine
 
-**Copyright © 2026. All Rights Reserved.**
+**Copyright © 2026. All Rights Reserved.Panchadip B & Somyajeet A**
 
 ## Overview
 
