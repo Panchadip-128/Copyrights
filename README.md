@@ -422,4 +422,5 @@ For questions, licensing, or support:
 
 *A copyright-protected software system for academic venue analysis*
 
+
 **© 2026. All Rights Reserved.**
